@@ -1,0 +1,6 @@
+---
+expectations:
+- binding: "*"
+  inspection: DeclaresTag:ol
+- binding: ol
+  inspection: DeclaresTag:li
